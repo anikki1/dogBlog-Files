@@ -1,5 +1,5 @@
-document.addEventListener('DOMContentLoaded', () => {
+/*document.addEventListener('DOMContentLoaded', () => {
     const nav = document.getElementById('navigation')
-    nav.innerHTML = '<ul> <li> <a href="dogBlog.html"> home </a> </li> <li> settings</li> <li> <a href="activities.html"> profile </a></li></ul>'
-    })
+    nav.innerHTML = ' <li class="button1"> <a href="dogBlog.html"> home </a> </li> <li class="button1"> <a href="activities.html"> profile </a></li>'
+    })*/
     
